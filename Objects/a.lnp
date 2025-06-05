@@ -1,0 +1,8 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\matrix.obj",
+".\Objects\LCD1602.obj",
+".\Objects\keyscan.obj" 
+TO ".\Objects\a" 
+PRINT(".\Listings\a.m51")
